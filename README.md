@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell Project
+alx-system_engineering-devops
